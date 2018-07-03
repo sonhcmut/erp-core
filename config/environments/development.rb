@@ -61,8 +61,8 @@ Rails.application.configure do
   config.action_mailer.smtp_settings = {
     address: 'smtp.gmail.com',
     port: 587,
-    domain: 'globalnaturesoft.com',
-    user_name: 'soft.support@hoangkhang.com.vn',
+    domain: 'hcmut.edu.vn',
+    user_name: '1633645@hcmut.edu.vn',
     password: 'aA456321@#$',
     authentication: 'plain',
     enable_starttls_auto: true

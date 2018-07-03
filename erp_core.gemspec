@@ -7,13 +7,9 @@ require "erp/core/version"
 Gem::Specification.new do |s|
   s.name        = "erp_core"
   s.version     = Erp::Core::VERSION
-  s.authors     = ["Luan Pham",
-                  "Son Nguyen",
-                  "Hung Nguyen"]
-  s.email       = ["luanpm@hoangkhang.com.vn",
-                  "sonnn@hoangkhang.com.vn",
-                  "hungnt@hoangkhang.com.vn"]
-  s.homepage    = "http://globalnaturesoft.com/"
+  s.authors     = ["Son Nguyen"]
+  s.email       = ["1633645@hcmut.edu.vn"]
+  s.homepage    = "http://hcmut.edu.vn/"
   s.summary     = "Core features of Erp System."
   s.description = "Core features of Erp System."
   s.license     = "MIT"
